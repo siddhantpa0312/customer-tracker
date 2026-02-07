@@ -8,6 +8,11 @@ let customers = [
         name:"Arya",
         email:"noone@gmail.com",
         purchases:["Dagger, Needle"]
+    },
+    {
+        name:"Robb Stark",
+        email:"LordofWinterfell@gmail.com",
+        purchases:["Sword, Shield"]
     }
 ];
 
